@@ -3,6 +3,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fd:
     long_description = fd.read()
 
+
 setuptools.setup(
     name="fuxictr",
     version="2.0.1.post",
