@@ -12,6 +12,7 @@ from fuxictr.preprocess import FeatureProcessor, build_dataset
 from model_zoo import DeepFM
 
 
+
 if __name__ == '__main__':
     # Load params from config files
     config_dir = './config/example4_config'
